@@ -1,0 +1,9 @@
+python-dotenv
+
+requests
+python-dotenv
+beautifulsoup4
+openai
+certifi
+PyPDF2
+streamlit

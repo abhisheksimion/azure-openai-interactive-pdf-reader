@@ -2,6 +2,8 @@
 
 The PDF Reader AI Agent is an advanced conversational assistant designed to help users interact with and extract information from PDF documents. Utilizing the power of generative AI (GenAI), this agent can process multiple PDFs, answer user queries based on the contents of the documents. It's designed to be user friendly and is built with a streamlined interface using Streamlit.
 
+![Demo image](https://github.com/abhisheksimion/azure-openai-interactive-pdf-reader/blob/main/app_screenshot.png)
+
 ## Features
 
 - Multiple PDF Support: Upload and process multiple PDF files simultaneously.
